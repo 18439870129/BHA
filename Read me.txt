@@ -1,0 +1,10 @@
+Software description
+
+Rectangular Packing software is divided into two programs, the first one is to output the first rectangle with the current optimal solution, the second is for the current first rectangle, the subsequent random ordering of other rectangles.
+
+
+
+
+
+
+
